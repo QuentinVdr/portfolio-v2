@@ -2,11 +2,13 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@app/*": ["./src/app/*"],
+      "@styles/*": ["./src/styles/*"]
     },
     "jsx": "preserve",
     "checkJs": true,
-    "target": "esnext",
+    "target": "ESNext",
     "moduleResolution": "node"
   },
   "exclude": ["node_modules", ".next", "out"]
