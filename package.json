@@ -9,18 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/eslint-plugin-next": "^14.2.2",
+    "@next/eslint-plugin-next": "^15.0.0",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-tailwindcss": "^3.15.1",
-    "next": "14.2.2",
+    "next": "15.0.1",
     "prettier-plugin-tailwindcss": "^0.5.14",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "8.57.0",
-    "eslint-config-next": "14.2.2",
+    "eslint-config-next": "15.0.1",
     "eslint-config-prettier": "9.1.0",
     "postcss": "8.4.38",
     "prettier": "3.2.5",
